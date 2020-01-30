@@ -1194,6 +1194,7 @@ pre code {
   width: 100%;
 }
 
+
 .page-content {
   margin-top: -80px;
   margin-bottom: 100px;
@@ -1207,6 +1208,9 @@ pre code {
           box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
 
+.home-page-header{
+	margin-bottom: 30px;
+}
 .header-page {
   position: relative;
   margin-bottom: 30px;
@@ -1218,6 +1222,13 @@ pre code {
   font-size: 36px;
   text-align: center;
   margin: 0 0 20px;
+  color: #311e3e;
+}
+.header-page h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
   color: #311e3e;
 }
 
@@ -1457,6 +1468,13 @@ pre code {
   margin: 0 auto;
 }
 
+.large-wrapper {
+  width: 880px;
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+
 .about-container {
   margin: 100px 0 100px;
 }
@@ -1466,6 +1484,8 @@ pre code {
   text-align: center;
   padding-bottom: 30px;
   margin-bottom: 30px;
+  margin-top: 100px;
+  padding-top: 30px;
 }
 
 .about-header:after {
@@ -1494,9 +1514,13 @@ pre code {
 .about-header .subtitle {
   color: #311e3e;
   font-weight: 300;
+  font-size: 16px;
   margin: 0;
 }
 
+.about-body{
+	font-size: 18px;
+}
 .about-body .contact-list {
   margin: 0;
   padding: 0;
@@ -1675,6 +1699,9 @@ pre code {
   .header-page h1 {
     font-size: 27px;
     margin: 0 0 10px;
+  }
+  .header-page h2 {
+    font-size: 27px;
   }
   .header-page .page-date {
     font-size: 14px;

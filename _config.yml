@@ -1,6 +1,7 @@
 title: Circle Of Track
 email: ckspackman2@gmail.com
 description: Circle of Track is an HO gauge model railroad club in Harrisburg, PA. We're all loco in this club...
+tagline: We're all loco in this club!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Carl Spackman # add your name
 author-pic: carl-face.jpg
-about-author: I am a retired pastor, train enthusiast, and model railroader of 60+ years. 
+about-author: I am a retired pastor, husband of one, father of 3, grandfather of 10, train enthusiast, and model railroader of 60+ years. 
 
 # Contact links
 email: ckspackman2@gmail.com
@@ -25,7 +26,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: carl-spackman # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
