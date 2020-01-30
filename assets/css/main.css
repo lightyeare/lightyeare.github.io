@@ -1466,6 +1466,8 @@ pre code {
   text-align: center;
   padding-bottom: 30px;
   margin-bottom: 30px;
+  margin-top: 100px;
+  padding-top: 30px;
 }
 
 .about-header:after {
@@ -1494,9 +1496,13 @@ pre code {
 .about-header .subtitle {
   color: #311e3e;
   font-weight: 300;
+  font-size: 16px;
   margin: 0;
 }
 
+.about-body{
+	font-size: 18px;
+}
 .about-body .contact-list {
   margin: 0;
   padding: 0;
