@@ -1,0 +1,29 @@
+---
+layout: home-page
+title: About
+permalink: /about/
+---
+<div class="small-wrapper">
+  <div class="about-container">
+    <section class="about-body">
+		<p>Circle of Track is an HO gauge model railroad club that meets in the home of Carl Spackman in Harrisburg, Pennsylvania, USA. The club meets every other Monday night and has been meeting since 2010.</p>
+		<p>Carl's love of trains began as a boy in Stratford, Ontario, Canada. At the time, Stratford was the home of the Canadian National Railway engine maintenance facility. He has been model railroading for 60+ years and this layout is the culmination of his love for the hobby.</p>
+    </section>
+	<section class="about-header">
+      <div class="author-image-container">
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}" alt="{{site.author}}">
+      </div>
+      <p class="subtitle">{{site.about-author}}</p>
+    </section>
+    <section class="about-body">
+      <ul class="contact-list">
+      {% if site.email %}
+        <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
+
+      {% if site.phone %}
+        <li class="phone"><a href="tel:{{site.phone}}"><i class="fa fa-phone"></i></a></li>
+      {% endif %}
+    </section> <!-- End About Body-->
+  </div> <!-- End About Container -->
+</div> <!-- End Small Wrapper -->
