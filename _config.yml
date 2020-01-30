@@ -1,6 +1,7 @@
 title: Circle Of Track
 email: ckspackman2@gmail.com
 description: Circle of Track is an HO gauge model railroad club in Harrisburg, PA. We're all loco in this club...
+tagline: We're all loco in this club!
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

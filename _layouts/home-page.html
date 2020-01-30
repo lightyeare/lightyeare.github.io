@@ -3,6 +3,19 @@ layout: default
 ---
 <div class="flex-container">
   {% include header.html %}
+  <div class="page-image">
+      <div class="cover-image" style="background: url({{"/assets/img/banner.jpg" | prepend: site.baseurl}}) center no-repeat; background-size: cover;"></div>
+    </div>
+	<div class="wrapper">
+      <div class="page-content home-page-header">
+        <div class="header-page">
+          <h2 class="page-title">{{ page.title }}</h2>
+		  {% if page.tagline %}
+		  <div class="page-date">{{ page.tagline }}</div>
+		  {% endif %}
+        </div>
+		</div>
+	</div>
   <div class="content wrapper">
     {{ content }}
   <!-- {% include search.html %} -->
