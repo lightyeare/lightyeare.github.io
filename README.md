@@ -8,7 +8,7 @@ Carl's love of trains began as a boy in Stratford, Ontario, Canada. At the time,
 
 GNU General Public License v3.0
 
-# Theme, with a few minor edits, is based on Adam Blog, a minimal clear theme for Jekyll
+Theme, with a few minor edits, is based on Adam Blog, a minimal clear theme for Jekyll
 
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
 
