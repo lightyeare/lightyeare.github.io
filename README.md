@@ -4,6 +4,8 @@ Circle of Track is an HO gauge model railroad club that meets in the home of Car
 
 Carl's love of trains began as a boy in Stratford, Ontario, Canada. At the time, Stratford was the home of the Canadian National Railway engine maintenance facility. He has been model railroading for 60+ years and this layout is the culmination of his love for the hobby. 
 
+~Update: Carl passed away in June of 2022 ♥.~
+
 ## License
 
 GNU General Public License v3.0
